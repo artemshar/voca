@@ -1,1 +1,2 @@
-# Vocabulary tool - is the tool for memorizing words
+# voca 
+is the tool for improving English vocabulary
