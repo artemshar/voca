@@ -1,5 +1,13 @@
 export const words = [
     "repetition",
     "recognition",
-    "prohibited"
+    "prohibited",
+    "get out",
+    "delegation",
+    "safety",
+    "tier",
+    "appreciation",
+    "engagement",
+    "attending",
+    "introducing"
 ]

@@ -1,5 +1,8 @@
 .words_list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
   margin: 0 auto;
-  max-width: 250px;
-  margin-top: 40px
+  margin-top: 40px;
+  padding: 0 15px;
 }
