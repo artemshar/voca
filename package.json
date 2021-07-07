@@ -1,6 +1,7 @@
 {
   "name": "vocabulary_tool",
   "version": "0.1.0",
+  "homepage": "https://artemshar.github.io/voca/",
   "description": "Vocabulary tool for memorizing words",
   "keywords": [
     "vocabulary",
