@@ -9,5 +9,6 @@ export const words = [
     "appreciation",
     "engagement",
     "attending",
-    "introducing"
+    "introducing",
+    "negotiate"
 ]
