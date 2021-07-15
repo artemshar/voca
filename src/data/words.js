@@ -10,5 +10,5 @@ export const words = [
     "engagement",
     "attending",
     "introducing",
-    "negotiate"
+    "negotiate",
 ]
