@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/voca/static/css/main.4cab9802.chunk.css",
-    "main.js": "/voca/static/js/main.e417f7cc.chunk.js",
-    "main.js.map": "/voca/static/js/main.e417f7cc.chunk.js.map",
+    "main.css": "/voca/static/css/main.7077cb89.chunk.css",
+    "main.js": "/voca/static/js/main.4d831356.chunk.js",
+    "main.js.map": "/voca/static/js/main.4d831356.chunk.js.map",
     "runtime-main.js": "/voca/static/js/runtime-main.d0b7bba8.js",
     "runtime-main.js.map": "/voca/static/js/runtime-main.d0b7bba8.js.map",
     "static/js/2.963a78e0.chunk.js": "/voca/static/js/2.963a78e0.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.78002aae.chunk.js": "/voca/static/js/3.78002aae.chunk.js",
     "static/js/3.78002aae.chunk.js.map": "/voca/static/js/3.78002aae.chunk.js.map",
     "index.html": "/voca/index.html",
-    "static/css/main.4cab9802.chunk.css.map": "/voca/static/css/main.4cab9802.chunk.css.map",
+    "static/css/main.7077cb89.chunk.css.map": "/voca/static/css/main.7077cb89.chunk.css.map",
     "static/js/2.963a78e0.chunk.js.LICENSE.txt": "/voca/static/js/2.963a78e0.chunk.js.LICENSE.txt",
     "static/media/cambridge_dictionary.8a160410.ico": "/voca/static/media/cambridge_dictionary.8a160410.ico"
   },
   "entrypoints": [
     "static/js/runtime-main.d0b7bba8.js",
     "static/js/2.963a78e0.chunk.js",
-    "static/css/main.4cab9802.chunk.css",
-    "static/js/main.e417f7cc.chunk.js"
+    "static/css/main.7077cb89.chunk.css",
+    "static/js/main.4d831356.chunk.js"
   ]
 }
