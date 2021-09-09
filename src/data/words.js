@@ -15,4 +15,12 @@ export const words = [
     "income",
     "river", 
     "honestly",
+    "expectation",
+    "payload",
+    "bachelorette party",
+    "bachelor party",
+    "hen-party",
+    "stag-party",
+    "housewarming",
+    "farewell"
 ]
